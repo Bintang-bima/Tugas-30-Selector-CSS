@@ -1,4 +1,4 @@
-1. Selektor pada CSS Inline
+Selektor pada CSS Inline
 | No | Selektor | Fungsi                          |
 | -- | -------- | ------------------------------- |
 | 1  | `h1`     | Mengatur heading                |
@@ -12,7 +12,7 @@
 | 9  | `table`  | Mengatur tabel                  |
 | 10 | `li`     | Mengatur item list              |
 
-2. Selektor pada CSS Internal
+Selektor pada CSS Internal
 | No | Selektor           | Fungsi                                          |
 | -- | ------------------ | ----------------------------------------------- |
 | 1  | `body`             | Mengatur seluruh halaman                        |
@@ -26,7 +26,7 @@
 | 9  | `section`          | Mengatur elemen section                         |
 | 10 | `*`                | Universal selector untuk semua elemen           |
 
-3. Selektor pada CSS External
+Selektor pada CSS External
 | No | Selektor       | Fungsi                           |
 | -- | -------------- | -------------------------------- |
 | 1  | `.container`   | Mengatur container utama         |
