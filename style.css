@@ -1,0 +1,52 @@
+body{
+    background-color:#dff0d8;
+}
+
+.container{
+    padding:20px;
+}
+
+h1{
+    color:darkred;
+}
+
+.card{
+    background-color:white;
+    border:1px solid black;
+    padding:10px;
+}
+
+#header{
+    color:darkblue;
+}
+
+nav a{
+    text-decoration:none;
+    color:green;
+}
+
+footer p{
+    color:red;
+}
+
+button:hover{
+    background-color:black;
+    color:white;
+}
+
+img{
+    border:3px solid blue;
+}
+
+table tr{
+    background-color:lightgray;
+}
+
+ol li{
+    color:purple;
+}
+
+article{
+    background-color:yellow;
+    padding:10px;
+}
